@@ -1,4 +1,4 @@
-Solutions to Codility Lessons (all of them was done on my own):
+Solutions to Codility Lessons (all of them are done by me):
 ## ITERATIONS
 
 **BinaryGap** - 100% score solution.
