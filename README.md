@@ -1,11 +1,9 @@
 Solutions to Codility Lessons (all of them was done on my own):
 ## ITERATIONS
 
-BinaryGap 100% score solution.
+**BinaryGap** - 100% score solution.
 Link at Codility: https://app.codility.com/demo/results/trainingSCUX3M-2BJ/
-
-
-TIME COMPLEXITY
+## TIME COMPLEXITY
 
 FrogJmp - 100% score solution.
 Link at Codility: https://app.codility.com/demo/results/trainingCQNHCJ-ANH/
