@@ -6,7 +6,7 @@ Link at Codility: https://app.codility.com/demo/results/trainingSCUX3M-2BJ/
 ## TIME COMPLEXITY
 
 **FrogJmp** - 100% score solution.
-Link at Codility: https://app.codility.com/demo/results/trainingCQNHCJ-ANH/
+Link at Codility: https://app.codility.com/demo/results/training2CFSG4-87U/
 
 **PermMissingElem** - 100% score solution.
 Link at Codility: https://app.codility.com/demo/results/trainingF6QTA4-3GM/
