@@ -1,4 +1,4 @@
-Solutions to Codility Lessons JavaScript (all of them are done by me):
+Solutions to Codility Lessons in JavaScript (all of them are done by me):
 ## ITERATIONS
 
 **BinaryGap** - 100% score solution.
