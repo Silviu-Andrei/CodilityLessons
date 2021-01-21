@@ -22,7 +22,7 @@ Link at Codility: https://app.codility.com/demo/results/trainingDH3H28-TGP/
 Link at Codility:https://app.codility.com/demo/results/training5336JR-DRV/
 
 **MissingInteger** - 66% score solution. 
-Link at Codility: https://app.codility.com/demo/results/training57FF3S-4DN/
+Link at Codility: https://app.codility.com/demo/results/training2GCGG4-5NU/
 
 **PermCheck** - 83% score solution. 
 Link at Codility: https://app.codility.com/demo/results/trainingB3GE7G-BR9/
