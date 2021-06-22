@@ -12,7 +12,7 @@ Link at Codility: https://app.codility.com/demo/results/training2CFSG4-87U/
 Link at Codility: https://app.codility.com/demo/results/trainingF6QTA4-3GM/
 
 **TapeEquilibrium** - 69% score solution. 
-Link at Codility: https://app.codility.com/demo/results/trainingT8AM3V-98U/
+Link at Codility: https://app.codility.com/demo/results/trainingN4TZKJ-6SB/
 ## COUNTING ELEMENTS
 
 **FrogRiverOne** - 81% score solution. 
